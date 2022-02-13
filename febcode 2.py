@@ -1,0 +1,6 @@
+a=int(input('enter A value = '))
+b=int(input('enter B value = '))
+print('A == B',a==b)
+print('A != B ',a!=b)
+print('A > B  ',a>b)
+print('A < B  ',a<b)
